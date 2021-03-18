@@ -1,0 +1,4 @@
+me/mahakagg/example/MainActivity.java
+ me.mahakagg.example.MainActivity
+me/mahakagg/example/BuildConfig.java
+ me.mahakagg.example.BuildConfig
